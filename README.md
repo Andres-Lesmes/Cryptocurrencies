@@ -1,1 +1,3 @@
 # Cryptocurrencies
+## Overview of the Analysis
+In this project we analyzed cryptocurrencies data in order to help Martha which is a senior manager for the Advisory Services Team at Accountability Accounting. Accountability Accounting, is interested in offering a new cryptocurrency investment portfolio for its customers.  So, we used unsupervised machine learning to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. The data needed to be cleaned and processed in order to fit the machine learning models. Then we created some data visualizations that Martha will use to share her findings with the board.
